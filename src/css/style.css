@@ -1,0 +1,21 @@
+/**
+========================
+FoodBuzz Basic Setup
+========================
+**/
+a {
+  text-decoration: none;
+  color: transparent;
+}
+
+
+
+
+
+.header {
+  background: url(../img/header-bg.png);
+  background-position: right top;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
